@@ -1,0 +1,15 @@
+/Users/illyoneer/VisualStudioProjects/controlProject/controlProject/bin/Debug/net6.0/controlProject
+/Users/illyoneer/VisualStudioProjects/controlProject/controlProject/bin/Debug/net6.0/controlProject.deps.json
+/Users/illyoneer/VisualStudioProjects/controlProject/controlProject/bin/Debug/net6.0/controlProject.runtimeconfig.json
+/Users/illyoneer/VisualStudioProjects/controlProject/controlProject/bin/Debug/net6.0/controlProject.dll
+/Users/illyoneer/VisualStudioProjects/controlProject/controlProject/bin/Debug/net6.0/controlProject.pdb
+/Users/illyoneer/VisualStudioProjects/controlProject/controlProject/obj/Debug/net6.0/controlProject.csproj.AssemblyReference.cache
+/Users/illyoneer/VisualStudioProjects/controlProject/controlProject/obj/Debug/net6.0/controlProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/illyoneer/VisualStudioProjects/controlProject/controlProject/obj/Debug/net6.0/controlProject.AssemblyInfoInputs.cache
+/Users/illyoneer/VisualStudioProjects/controlProject/controlProject/obj/Debug/net6.0/controlProject.AssemblyInfo.cs
+/Users/illyoneer/VisualStudioProjects/controlProject/controlProject/obj/Debug/net6.0/controlProject.csproj.CoreCompileInputs.cache
+/Users/illyoneer/VisualStudioProjects/controlProject/controlProject/obj/Debug/net6.0/controlProject.dll
+/Users/illyoneer/VisualStudioProjects/controlProject/controlProject/obj/Debug/net6.0/refint/controlProject.dll
+/Users/illyoneer/VisualStudioProjects/controlProject/controlProject/obj/Debug/net6.0/controlProject.pdb
+/Users/illyoneer/VisualStudioProjects/controlProject/controlProject/obj/Debug/net6.0/controlProject.genruntimeconfig.cache
+/Users/illyoneer/VisualStudioProjects/controlProject/controlProject/obj/Debug/net6.0/ref/controlProject.dll
